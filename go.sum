@@ -1,4 +1,6 @@
 github.com/donnol/modB v0.0.0-20191010065456-006fefedea5a h1:4p6ReqoSw2wgWmwJ32P1R03rk40B4wegqRyCpnz39H0=
 github.com/donnol/modB v0.0.0-20191010065456-006fefedea5a/go.mod h1:Lx2qN4XIC5qy88EnckKzFp3CyfYcxWh5x0NDLKVSDu8=
+github.com/donnol/modC v0.1.0 h1:9qnbK2CuRxwpgNydoM8GNigtd3ppeiMq6i5DN4IFrL4=
+github.com/donnol/modC v0.1.0/go.mod h1:Ama6MRMvCKRGNTpJyyuVlnL2qdpkOKPOQjqdeMdYMps=
 github.com/donnol/modC v0.2.0 h1:DR6DgzujUOh27Chs2mR5+dYrTCbUi/zuyZJMmhaAJw8=
 github.com/donnol/modC v0.2.0/go.mod h1:Ama6MRMvCKRGNTpJyyuVlnL2qdpkOKPOQjqdeMdYMps=
